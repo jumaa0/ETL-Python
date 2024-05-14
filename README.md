@@ -51,8 +51,6 @@ The project milestones include setting up databases and data lakes, extracting d
 - Clean and transformed datasets ready for analysis in structured folders.
 - Visualizations and analytical reports demonstrating the insights derived from the data.
 
-## Assignment Type
-This project is an individual assignment designed to demonstrate proficiency in handling complex data workflows using Python and various data processing libraries.
 
 ## How to Clone the Repository
 To clone this repository, run the following command:
